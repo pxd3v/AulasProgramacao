@@ -1,5 +1,5 @@
 const readline = require('readline-sync');
-console.log("Meu programa recebe dois numeros e calcula..")
+
 const base = 
 readline.questionInt("Digite o valor da base: ");
 const altura = 
